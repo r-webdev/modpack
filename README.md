@@ -3,7 +3,12 @@ webdev+web_design Discord Modpack
 
 Built with [packwiz](https://github.com/packwiz/packwiz)
 
-Install with a third party mod manager/launcher, e.g MultiMC, PolyMC, GDLauncher, [etc](https://gist.github.com/comp500/13ae6f058221196077fb19953ac608c7#tools-and-launchers).
+## Installing
+
+Grab the latest build from the [GitHub Actions](https://github.com/r-webdev/modpack/actions),
+extracting the .mrpack file and installing it using [this guide](https://docs.modrinth.com/docs/modpacks/playing_modpacks/).
+
+Eventually these builds will be hosted somewhere, and maybe properly versioned.
 
 ## Mods
 
