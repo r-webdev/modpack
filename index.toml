@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/build.yaml"
+hash = "5a9f1f1dfd3080336858a64053b30ed5014347fd2cba30ff985791c1e40e19ed"
+
+[[files]]
+file = "LICENSE"
+hash = "29a80a730c4527c93c521078919f8f8ea8ced8ac7b16ec48fc9c99a6f2199f13"
+
+[[files]]
+file = "README.md"
+hash = "3b2b80460470451e6e171458975e0826e01912fe63f11a2668fd8bfa8ea115d3"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "918c2eb40159ca8463ead5955659b0d8975e9355c702db974b800efc7ea0effa"
 metafile = true

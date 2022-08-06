@@ -1,0 +1,22 @@
+name: build
+on: push
+jobs:
+  build-modpack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Install packwiz
+        run: |
+          curl -H "Accept: application/vnd.github+json" \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -L -o packwiz.zip \
+          "https://api.github.com/repos/packwiz/packwiz/actions/artifacts/316425896/zip"
+          unzip packwiz.zip && chmod +x packwiz && sudo mv packwiz /usr/local/bin
+      - name: Build modpack
+        run: packwiz modrinth export --output webdev.mrpack
+      - name: Upload modpack
+        uses: actions/upload-artifact@v2
+        with:
+          name: webdev.mrpack
+          path: webdev.mrpack
