@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "918c2eb40159ca8463ead5955659b0d8975e9355c702db974b800efc7ea0effa"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "20191a7760863e795181595fafc2094d4f1ad7b254037cb4b4568c13bb451f11"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7da74fd4dc94275df9345369417dd6314076b69fb92a32846b9bb95f4e9eb0d4"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ee868e7edfb76bc7cc9e50970d33f37fbabbd5219b86fff38d9ec8e1bb15fd4a"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "6a6c57d3f0855c6ea489dd74deff8ffbd82cc53a61811f603ed99ea5a0bc45d7"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "62fa6910ee59ed4fb18de8948b549256f36951ba6496f8e0659162b20f2eaa25"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "835c82536479104f6e7395cd94985a591c90e1ee528e3439d6d069540fd363ce"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "9ba7ce600676fa147a460fa3ec04712943ed81c72a24774f2c2b721c113986a3"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "0918816b559523a88d96b6f3c5094124bc08544bb6df6ef719a73b9f6108d3ed"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "a7b18ba4f69fd7dff11ccb6de84dc923c6520f8ed198cae101a1578992994221"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "a96b1f986269854aa6edf907521d3e65b50c763ebe7e6f4f9f625fa89cf3884a"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "1b0584f35cbe22383d81cc34267f221d05c5aaf8441b94a2f83b651f1b68888d"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "acde76ce2d1dcf489d3785ef04ebc49c3af7a07132a4d85e35e83fef6a489d8f"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "e8c094b697a3fcce31e7f271984c5ed0c47b766a4c883cce40e1d90537e0b1ac"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "d1d30111da762051a712e0ec9b6f7f5c7d62bf67dfe2fb4fdbc8a6e2da08c05b"
+metafile = true

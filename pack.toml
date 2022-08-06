@@ -1,0 +1,16 @@
+name = "gmem's Technical Modpack"
+author = "Gabriel \"gmem\" Simmer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a02c94ea2c05109e75425956f893872d01d98d9ee6e1c378aa8410c9f875a5a6"
+
+[versions]
+forge = "40.1.69"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1"]
