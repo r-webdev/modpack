@@ -1,5 +1,9 @@
 name: build
-on: push
+on:
+  push:
+    paths:
+      - '**.toml'
+      - .github/workflows/build.yaml
 jobs:
   build-modpack:
     runs-on: ubuntu-latest
